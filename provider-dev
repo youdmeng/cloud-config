@@ -1,3 +1,6 @@
+server:
+  port: 3305
+
 eureka:
   instance:
     prefer-ip-address: true
